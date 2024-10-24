@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
 
     return MaterialApp(
       navigatorKey: NavigationService.navigatorKey, // Use global navigator key
-      title: 'Biodata',
+      title: 'pert4',
       debugShowCheckedModeBanner: false,
       initialRoute: '/home',
       routes: {
